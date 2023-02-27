@@ -3,6 +3,7 @@ from rclpy.node import Node
 
 from std_msgs.msg import String
 
+#juman/knpを使いやすくしたライブラリ
 from icdpyknp import KNP
 from rich.console import Console
 
